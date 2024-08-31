@@ -1,9 +1,3 @@
-/*
-Author: Shubham Samarth
-Date: February 22, 2024
-Description: This class is responsible for loading a default Delivery Partner user into the application upon startup, if one does not already exist.
-*/
-
 package com.farmbazaar.config;
 
 import com.farmbazaar.model.entity.DeliveryPartner;
