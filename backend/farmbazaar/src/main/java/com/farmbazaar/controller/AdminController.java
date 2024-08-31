@@ -1,10 +1,3 @@
-/*
-Author: Shubham Samarth
-Date: February 14, 2024
-Description: This class defines REST endpoints for performing CRUD operations related to various user roles (Admin, Farmer, Delivery Partner, Customer), categories, products, and user creation. It also includes methods for assigning products to farmers and retrieving user details by ID for all user types.
-Last Modified: February 27, 2024
-*/
-
 package com.farmbazaar.controller;
 
 import com.farmbazaar.dto.UserDetailsDTO;
