@@ -1,10 +1,3 @@
-/*
-Author: Shubham Samarth
-Date: February 18, 2024
-Description: This class defines REST endpoints for customer-specific operations, such as retrieving all products available for purchase.
-Last Modified: February 22, 2024
-*/
-
 package com.farmbazaar.controller;
 
 import com.farmbazaar.dto.CartItemRequest;
