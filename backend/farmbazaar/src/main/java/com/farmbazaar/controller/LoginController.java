@@ -1,9 +1,3 @@
-/*
-Author: Shubham Samarth
-Date: February 16, 2024
-Description: This class provides service methods for user authentication, allowing users to log in to the system securely.
-Last Modified: February 22, 2024*/
-
 package com.farmbazaar.controller;
 
 import com.farmbazaar.service.LoginService;
