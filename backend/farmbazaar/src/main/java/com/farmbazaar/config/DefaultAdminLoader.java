@@ -1,8 +1,3 @@
-/*
-Author: Shubham Samarth
-Date: February 14, 2024
-Description: This class is responsible for loading a default admin user into the application upon startup, if one does not already exist.
-*/
 
 package com.farmbazaar.config;
 
